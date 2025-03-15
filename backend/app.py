@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app) 
 
 # OpenAI API Key
-OPENAI_API_KEY = "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"  # 你的 GPT-4 API Key
+OPENAI_API_KEY = ""  #please repplace your chatgpt API
 openai.api_key = OPENAI_API_KEY
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
