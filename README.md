@@ -1,7 +1,7 @@
 # Getting Started 
 
 Before start, please go to the backend directory and add your GPT API key to the file app.py  
-Make sure you run the below:
+Make sure you run the below:  
 In the backend directory, run
 ### `python app.py`
 
